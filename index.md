@@ -40,6 +40,21 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 ***
 
+[Employee-Compensation](https://github.com/Muluken1Walle/K_Means-Project)
+
+<img src="images/EC.jpeg?raw=true"/>
+
+**Skills used:** Python, Pandas, Seaborn, Matplotlib, Elbow, Clustering
+
+**Project Objective:**The San Francisco Controller's Office maintains a database of the salary and benefits,
+paid to City employees since fiscal year 2013. This data is summarized and presented on the Employee Compensation.
+
+- Used K-Means algorythm to create cluster depending on the Dataset.
+- Used Elbow method to get the optimal number of cluster.
+- Explored a Unsupervised learning approach to create data group.
+
+***
+
 [Hand Written Digits Recognisation](https://github.com/Muluken1Walle/Deep-Neural-Network-with-Keras-for-MNIST-handwritten-classification-and-recognition/blob/main/Deep_Neural_Network_with_Keras_for_MNIST_handwritten_classification_and_recognition.ipynb)
 
 <img src="images/mnist.png?raw=true"/>
