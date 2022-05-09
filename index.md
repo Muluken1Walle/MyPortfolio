@@ -4,7 +4,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Examining the effect of environmental factors and weather on demand of Bike rentals](https://github.com/suvo-gh/Bike-Rental-Demand/blob/main/Bike_Rental_Demand.ipynb)
+[Examining the effect of environmental factors and weather on demand of Bike rentals](https://github.com/Muluken1Walle/ProjectLinearRegression)
 
 <img src="images/seoul-bikes.jpeg?raw=true"/>
 
@@ -12,7 +12,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Project Objective:** Predicting Bike rental demand on basis of weather and seasonal factors in advance to take appropiate measures which finally will result in bike utilization.
 
-**Quantifiable result:** We could predict the Bike rental demand resulting in [**94%** accuracy](https://github.com/suvo-gh/Bike-Rental-Demand/blob/main/Bike_Rental_Demand.ipynb).
+**Quantifiable result:** We could predict the Bike rental demand resulting in [**55%** accuracy](https://github.com/Muluken1Walle/ProjectLinearRegression).
 
 - Used Random Forest Regressor to predict the number of bikes rented in the city of Seoul
 - The data had quite a few categorical variables which were encoded for use in the model
@@ -22,34 +22,35 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Diagnosis of breast cancer using a logistic classifier](https://github.com/suvo-gh/Orthopedic-Patients-Classification)
+[Portuguese Bank Marketing Analysis](https://github.com/Muluken1Walle/Logistic_Regression_Project)
 
-<img src="images/breast-cancer.jpeg?raw=true"/>
+<img src="images/bank.jpeg?raw=true"/>
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib
 
-**Project Objective:** Identification of the type of Breast Cancer for quicker diagnosis. This assists professionals in the medical field to take appropiate measures to accurately diagnose, treat and save lives. 
+**Project Objective:**In this project I worked with real world data which is related with direct marketing campaigns (phone calls) of a Portuguese banking institution.
+The classification goal is to predict if the client will subscribe a term deposit.
 
-**Quantifiable result:** We could Classify the type of tumor resulting in [**80%** accuracy using K-means algorithm](https://github.com/suvo-gh/Orthopedic-Patients-Classification).
+**Quantifiable result:** We could Classify whether client has subscribed the term deposit or not [**85%** accuracy using Logistic Regression algorithm](https://github.com/Muluken1Walle/Logistic_Regression_Project).
 
-- Used logistic regression to identify a tumour as malignant or benign based on various attributes
-- Classified tumors as benign or malignant by studying patterns in measured attributes of those tumors
-- Used Logistic regression classifier & optimized the accuracy by using the ROC curve
-- Explored a machine learning approach to medical diagnosis
+- Used logistic regression to classify whether term deposit is subscribed or not.
+- Classified subscription depending on selected important features.
+- Used SMOTE to balance dataset.
+- Explored a machine learning approach to marketing analysis.
 
 ***
 
-[Identifying given picture is a Cat or a Dog](https://github.com/suvo-gh/Cat_or_Dog_prediction/blob/main/CNN_Project%20(Image_Classification).ipynb)
+[Hand Written Digits Recognisation](https://github.com/Muluken1Walle/Deep-Neural-Network-with-Keras-for-MNIST-handwritten-classification-and-recognition/blob/main/Deep_Neural_Network_with_Keras_for_MNIST_handwritten_classification_and_recognition.ipynb)
 
-<img src="images/Dog-and-Cat.jpeg?raw=true"/>
+<img src="images/mnist.png?raw=true"/>
 
 **Skills used:** Python, Keras, Tensorflow
 
-**Project Objective:** Prediction of whether a given image is a Cat or a Dog using Convolutional Neural Networks which may be further implemented as a feature in a bigger project.
+**Project Objective:** Mnist is a dataset with 70,000 of hand written digits. Here I have predicted the mnist digits by using Convolution Nural Network.
 
-**Quantifiable result:** We could train the Convolutional Neural Network to attain a accuracy of [**80%** using **23** epochs](https://github.com/suvo-gh/Cat_or_Dog_prediction/blob/main/CNN_Project%20(Image_Classification).ipynb).
+**Quantifiable result:** We could train the Convolutional Neural Network to attain a accuracy of [**92%**](https://github.com/Muluken1Walle/Deep-Neural-Network-with-Keras-for-MNIST-handwritten-classification-and-recognition/blob/main/Deep_Neural_Network_with_Keras_for_MNIST_handwritten_classification_and_recognition.ipyn).
 
 - Added multiple convolution and pooling layers
-- Training model on basis of given data
-- Fitting the CNN to see if the provided image is dog or cat
-- Data Source: https://drive.google.com/drive/folders/15SG-chdqEwcrNAY39RTZJjvl-UwiZo_e?usp=sharing
+- Training model on basis of Mnist data
+- Data Source: MNIST
+- Trained model with 8 epochs.
