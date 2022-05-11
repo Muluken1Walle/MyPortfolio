@@ -89,7 +89,7 @@ paid to City employees since fiscal year 2013. This data is summarized and prese
 
 [Suicide-Rates](https://github.com/Muluken1Walle/Suicide-Rates/blob/main/SuicideProject.ipynb)
 
-<img src="images/SS.png?raw=true"/>
+<img src="images/S.png?raw=true"/>
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib, Seaborn, os,pycountry, geopandas
 
