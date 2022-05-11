@@ -85,3 +85,18 @@ paid to City employees since fiscal year 2013. This data is summarized and prese
 - Training model on basis of Mnist data
 - Data Source: MNIST
 - Trained model with 8 epochs.
+***
+
+[Suicide-Rates](https://github.com/Muluken1Walle/Suicide-Rates/blob/main/SuicideProject.ipynb)
+
+<img src="images/EA.png?raw=true"/>
+
+**Skills used:** Python, Pandas, SKlearn, Matplotlib, Seaborn, os,pycountry, geopandas
+
+**Project Objective:**Tasked to predict the world suicide rates .
+
+**Quantifiable result:** We could pridict the suicide rate based on country, year, sex, age group, count of suicides, population, suicide rate.[**99%** accuracy using RandomForestRegressor algorithm](https://github.com/Muluken1Walle/Suicide-Rates/blob/main/SuicideProject.ipynb).
+
+- Used RandomForestRegressor  to classify whether the employee will leave the organisation or not .
+- Classified subscription depending on selected important features.
+- Explored a machine learning approach to suicide rate Prediction.
