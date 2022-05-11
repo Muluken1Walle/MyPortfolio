@@ -100,3 +100,19 @@ paid to City employees since fiscal year 2013. This data is summarized and prese
 - Used RandomForestRegressor  to classify whether the employee will leave the organisation or not .
 - Classified subscription depending on selected important features.
 - Explored a machine learning approach to suicide  Prediction.
+********
+***
+
+[World-Happiness](https://github.com/Muluken1Walle/World-Happiness.Project/blob/main/World_Happiness_Report.ipynb)
+
+<img src="images/w.png?raw=true"/>
+
+**Skills used:** Python, Pandas, SKlearn, Matplotlib, Seaborn, 
+
+**Project Objective:**Tasked to predict the world Happiness rates .
+
+**Quantifiable result:** I could pridict world people happines  based on country, year, sex, age group, count of happy  population rate.[**81%** accuracy using RandomForestRegressor algorithm](https://github.com/Muluken1Walle/World-Happiness.Project/blob/main/World_Happiness_Report.ipynb).
+
+- Used RandomForestRegressor  to classify whether the employee will leave the organisation or not .
+- Classified subscription depending on selected important features.
+- Explored a machine learning approach to Happiness   Prediction.
