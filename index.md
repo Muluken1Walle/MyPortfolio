@@ -89,7 +89,7 @@ paid to City employees since fiscal year 2013. This data is summarized and prese
 
 [Suicide-Rates](https://github.com/Muluken1Walle/Suicide-Rates/blob/main/SuicideProject.ipynb)
 
-<img src="images/EA.png?raw=true"/>
+<img src="images/suicide.png?raw=true"/>
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib, Seaborn, os,pycountry, geopandas
 
@@ -99,4 +99,4 @@ paid to City employees since fiscal year 2013. This data is summarized and prese
 
 - Used RandomForestRegressor  to classify whether the employee will leave the organisation or not .
 - Classified subscription depending on selected important features.
-- Explored a machine learning approach to suicide rate Prediction.
+- Explored a machine learning approach to suicide  Prediction.
