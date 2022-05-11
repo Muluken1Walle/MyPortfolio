@@ -105,7 +105,7 @@ paid to City employees since fiscal year 2013. This data is summarized and prese
 
 [World-Happiness](https://github.com/Muluken1Walle/World-Happiness.Project/blob/main/World_Happiness_Report.ipynb)
 
-<img src="images/w.png?raw=true"/>
+<img src="images/W.png?raw=true"/>
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib, Seaborn, 
 
