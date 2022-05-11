@@ -40,6 +40,22 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 ***
 
+[Employee-Attrition](https://github.com/Muluken1Walle/Predicting-Employee-Attrition/blob/main/Predicting_Employee_Attrition.ipynb)
+
+<img src="images/EA.png?raw=true"/>
+
+**Skills used:** Python, Pandas, SKlearn, Matplotlib, Seaborn
+
+**Project Objective:**Tasked to predict whether a current employee will be leaving the organization in the upcoming two quarters (01 Jan 2018 - 01 July 2018) or not.
+
+**Quantifiable result:** We could Classify whether the employee will leave the organisation or not.[**92%** accuracy using Logistic Regression algorithm](https://github.com/Muluken1Walle/Predicting-Employee-Attrition/blob/main/Predicting_Employee_Attrition.ipynb).
+
+- Used logistic regression to classify whether the employee will leave the organisation or not .
+- Classified subscription depending on selected important features.
+- Explored a machine learning approach to Employee Attrition Prediction.
+
+***
+
 [Employee-Compensation](https://github.com/Muluken1Walle/K_Means-Project)
 
 <img src="images/EC.jpeg?raw=true"/>
